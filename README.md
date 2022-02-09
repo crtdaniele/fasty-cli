@@ -1,6 +1,6 @@
 # FastyCLI
 
-Foobar is a Python library for dealing with word pluralization.
+A CLI to fastify the commands to push your code into Git.
 
 ## Installation
 
